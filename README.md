@@ -14,9 +14,9 @@ An artisan command has been written to run the model factory, it is used in the 
 
 Example 
 
-artisan runFactory School
-artisan runFactory User
-artisan runFactory All
+artisan runFactory School<br>
+artisan runFactory User<br>
+artisan runFactory All<br>
 
 INSTALL
 

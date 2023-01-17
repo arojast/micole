@@ -19,7 +19,8 @@ return new class extends Migration
             $table->string('name');
             $table->timestamps();
         });
-
+        
+        //a default country is created
         Country::factory()->create([
             'name' => 'España'
         ]);

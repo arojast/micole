@@ -1,4 +1,5 @@
 PHP --version : 8.^
+
 Composer --version : 2.4.^
 
 Project made in Laravel 9, see documentation at https://laravel.com/docs/9.x/
